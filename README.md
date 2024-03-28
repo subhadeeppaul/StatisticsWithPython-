@@ -1,6 +1,6 @@
 # Statistics with Julia: Python Implementation
 
-This repository contains Python implementations of the code examples and exercises found in the book "Statistics with Julia: Fundamentals for Data Science, Machine Learning, and Artificial Intelligence" by Yoni Nazarathy.
+This repository contains Python implementations of the code examples and exercises found in the book "Statistics with Julia: Fundamentals for Data Science, Machine Learning, and Artificial Intelligence" by Yoni Nazarathy and Hayden Klok.
 
 ## Overview
 
