@@ -1,6 +1,6 @@
-# Statistics with Julia: Python Implementation
+# Statistics with Python: Fundamentals for Data Science, Machine Learning and Artificial Intelligence
 
-This repository contains Python implementations of the code examples and exercises found in the book "Statistics with Julia: Fundamentals for Data Science, Machine Learning, and Artificial Intelligence" by Yoni Nazarathy and Hayden Klok.
+This repository contains Python implementations of the 200+ code examples and exercises found in the book "Statistics with Julia: Fundamentals for Data Science, Machine Learning, and Artificial Intelligence" by Yoni Nazarathy and Hayden Klok.
 
 ## Overview
 
@@ -11,6 +11,27 @@ This repository serves as a companion to the book, allowing readers to explore a
 - **Chapter-wise folders**: Each chapter of the book has its own folder within this repository. Within these folders, you will find Python scripts corresponding to the code examples and exercises presented in the book.
 
 - **README files**: Each chapter folder contains a README file that provides an overview of the contents and instructions for running the code.
+
+## Book Structure
+
+The book is comprised of the following ten chapters and three appendices:
+
+1. Introducing Python
+2. Basic Probability
+3. Probability Distributions
+4. Processing and Summarizing Data
+5. Statistical Inference Concepts
+6. Confidence Intervals
+7. Hypothesis Testing
+8. Linear Regression and Extensions
+9. Machine Learning Basics
+10. Simulation of Dynamic Models
+
+Appendices:
+
+1. How-to in Python
+2. Additional Language Features
+3. Additional Packages
 
 ## Getting Started
 
